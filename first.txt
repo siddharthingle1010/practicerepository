@@ -1,1 +1,2 @@
-this is file from gittu
+this is file from gittu 
+and i am learning to pull file from github
